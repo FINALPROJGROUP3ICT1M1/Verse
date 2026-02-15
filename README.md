@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <head>Proverbs 16:3</head>
+    <h1>Proverbs 16:3</h1>
     <p>Commit to the Lord whatever you do, and he will establish your plans.</p>
     
     <div id="cat-container">
